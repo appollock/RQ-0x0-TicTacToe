@@ -2,7 +2,7 @@
 
 namespace RQ_0x0_TicTacToe
 {
-    class Program
+    class Game
     {
         static void Main(string[] args)
         {
